@@ -3,18 +3,19 @@ Hi everybody!
 This document exists for you to clone and change.
 
 
-This text might cromtain a deliferate mistake. If you can finb it please correct ti!
+This text might contain a deliberate mistake. If you can find it please correct it!
 
 
 Please categorise some foods:
 
 GOOD FOODS
 
-Lasagna
-
+Tomatoes
+Tiramisù
 Ice cream
-
+Sacher
 
 BAD FOODS
 
-Brussels sprouts
+Bananas
+
